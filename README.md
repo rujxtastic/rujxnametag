@@ -10,7 +10,9 @@ I put most of my effort into the schematic so this is a little rushed.
 # PCB render   
 The render! I think this is less shiny and contrasting than it'll be in real life.   
 <img width="565" height="436" alt="image" src="https://github.com/user-attachments/assets/a0382801-3132-4e31-9a90-7ebf81063d20" />   
-
+# Building   
+1. Solder the ESP32-C3-DevkitM-1 to the PCB in the slot. It's probably very obvious where it goes (in the part labelled U1/ESP32-C3-DevkitM-1).
+2. Solder the button to the PCB (SW1)
 # Setup
 1. Download Slack's API.
 2. Update the .ino file to reflect your own API key, wifi name and password.
