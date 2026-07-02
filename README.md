@@ -1,5 +1,6 @@
 # rujxnametag
-Super cool nametag/gadget!!
+Username: rujx on slack   
+Super cool nametag/gadget!! When you press the button it pings me on Slack with a custom app. I also added Thragg holding Soup because he looks tuff with him.   
 
 # Schematic   
 I know this is a little difficult to understand, but I've tried to make this as readable as possible.   
